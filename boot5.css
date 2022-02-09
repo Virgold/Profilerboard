@@ -1,0 +1,84 @@
+.br{
+    border: none !important;
+}
+#wit{
+    width: 2000px;
+}
+#a{
+    margin-left: 45% !important;
+}
+#b{
+    margin-left: 85% !important;
+}
+#c{
+    margin-left: 60% !important;
+}
+.sideImage{
+    background-image: url(./images.jfif);
+    align-items: center;
+    text-align: center;
+    height: 120px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.sidebar {
+    min-height: 100vh;
+    width: 60px;
+    box-shadow: 2px 0px 7px -5px;
+}
+.card{
+    border: none!important;
+}
+.fill1{
+    background-color: orange;
+    height: 10px;
+    width: 45%;
+}
+.fill2{
+    background-color: gainsboro;
+    height: 10px;
+    width: 55%;
+}
+.fill3{
+    background-color: tomato;
+    height: 10px;
+    width: 85%;
+}
+.fill4{
+    background-color: gainsboro;
+    height: 10px;
+    width: 15%;
+}
+.fill5{
+    background-color: green;
+    height: 10px;
+    width: 60%;
+}
+.fill6{
+    background-color: gainsboro;
+    height: 10px;
+    width: 40%;
+}
+
+div.row > aside {
+    flex: 0 0 6%;
+}
+#clock{
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 50%; */
+}
+.photo{
+    position: relative;
+     margin-top: -4rem; 
+     background-color: tomato;
+     width: 35%;
+     margin-left: auto;
+     margin-right: auto;
+     border: 8px solid rgba(161, 154, 154, 0.8);
+}
+.miniPhoto{
+    background-color: tomato;
+    border: 2px solid rgba(161, 154, 154, 0.8);
+}
